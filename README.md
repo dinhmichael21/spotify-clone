@@ -37,11 +37,13 @@ A web application that replicates the core features of Spotify, using **React** 
    npm install
 
 3. Run the Application
-    # Inside the 'client' directory
+    (Inside the 'client' directory)
+    ```bash
     cd client
     npm start
 
-    # Inside the 'server' directory
+    (Inside the 'server' directory)
+    ```bash
     cd ../server
     npm start
 
