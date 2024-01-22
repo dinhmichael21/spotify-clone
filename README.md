@@ -41,6 +41,9 @@ A web application that replicates the core features of Spotify, using **React** 
     ```bash
     cd client
     npm start
+    
+
+    
 
     (Inside the 'server' directory)
     ```bash
