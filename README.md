@@ -37,20 +37,18 @@ A web application that replicates the core features of Spotify, using **React** 
    npm install
 
 3. Run the Application
-    (Inside the 'client' directory)
+    #### Inside the 'client' directory
     ```bash
     cd client
     npm start
     
-
-    
-
-    (Inside the 'server' directory)
+4. Run Application part 2
+    #### Inside the 'server' directory
     ```bash
     cd ../server
     npm start
 
-4. Open your Browser
+5. Open your Browser
     Open your browser and navigate to http://localhost:3000 to start using the Spotify Clone.
     Feel free to contribute, provide feedback, or suggest new features. Happy listening!
 
